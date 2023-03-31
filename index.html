@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokeMontoya</title>
+    <script src="https://kit.fontawesome.com/3783c670b9.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header></header>
+    <main class="main_juego" id="main_juego">
+        <section class="seccionEleccion" id="seccionEleccion">
+            <img src="img/title.png" alt="Logo PokeMontoya" class="seccionEleccion__img" width="800">
+            <h2 class="seccionEleccion__subtitle">Elige a tu compañero Pokemon</h2>
+            <div class="contenedor_pokemons_iniciales">
+                <div class="pokemonInicial">
+                    <div class="part_roja"></div>
+                    <div class="part_blanca"></div>
+                    <div class="part_bolita"></div>
+                    <button onclick="eligo('bulbasaur')" class="pokemonInicial__button button_bulbasaur">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="imagen Bulbasaur" width="200">
+                    </button>
+                </div>
+                <div class="pokemonInicial">
+                    <div class="part_roja"></div>
+                    <div class="part_blanca"></div>
+                    <div class="part_bolita"></div>
+                    <button onclick="eligo('charmander')" class="pokemonInicial__button button_charmander">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="imagen Charmander" width="100">
+                    </button>
+                </div>
+                <div class="pokemonInicial">
+                    <div class="part_roja"></div>
+                    <div class="part_blanca"></div>
+                    <div class="part_bolita"></div>
+                    <button onclick="eligo('squirtle')" class="pokemonInicial__button button_squirtle">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" alt="imagen Squirtle" width="100">
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
