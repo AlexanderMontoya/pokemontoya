@@ -6,14 +6,14 @@
 - HTML5
 - CSS3
 - Javascript
-- PokeApi[PokeApi]('https://pokeapi.co/')
+- [PokeAPI](https://pokeapi.co/)
 ## Instalación
 Clonar el repositorio del proyecto de github o descargar el archivo ZIP de el proyecto
  ```sh
 	git clone https://github.com/AlexanderMontoya/pokemontoya.git
    ```
 ## Autor
-[Portafolio]('https://alexandermontoya.github.io/portafolio-personal/')
-[Linkedin]('https://www.linkedin.com/in/alexander-josu%C3%A9-montoya-bonifacio/')
+[Portafolio](https://alexandermontoya.github.io/portafolio-personal/)
+[Linkedin](https://www.linkedin.com/in/alexander-josu%C3%A9-montoya-bonifacio/)
 ## Licencia 📄
 Este proyecto está bajo la licencia MIT
