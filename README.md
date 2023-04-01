@@ -1,2 +1,2 @@
 # PokeMontoya
-![Video PokeMontoya](https://alexandermontoya.github.io/pokemontoya/video/resultado.mp4)
+![Video PokeMontoya](/video/resultado.gif)
